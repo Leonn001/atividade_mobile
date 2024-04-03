@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="login">Logar</string>
+    <string name="password">Senha</string>
+    <string name="cancel">Cancelar</string>
+    <string name="user">Usuario</string>
+    <string name="login_screen">Tela de Login</string>
+    <string name="main_screen">Tela Principal</string>
+    <string name="Settings">Configuracao</string>
+    <string name="exit">Sair</string>
+    <string name="app_name">Minha aplicacao</string>
+    <string name="settings_screen">Tela de Configuracoes</string>
+    <string name="user1">Usuario</string>
+    <string name="password1">Senha</string>
+    <string name="confirm_password">Confirmar senha</string>
+    <string name="confirm">Confirmar</string>
+    <string name="cancel1">Cancelar</string>
+</resources>

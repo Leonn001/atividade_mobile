@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="cancel">Cancel</string>
+    <string name="user">User</string>
+    <string name="login_screen">login screen</string>
+    <string name="main_screen">Main screen</string>
+    <string name="Settings">Settings</string>
+    <string name="exit">Exit</string>
+    <string name="settings_screen">Settings screen</string>
+    <string name="user1">User</string>
+    <string name="password1">Password</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel1">Cancel</string>
+</resources>
